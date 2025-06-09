@@ -122,4 +122,4 @@ dotnet run --project QuickChat.Server
 
 ## 📂 Репозиторий
 
-[GitHub — SAYANru/Practikachat](https://github.com/SAYANru/Practikachat)
+(https://github.com/SAYANru/Practikachat)
